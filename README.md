@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Godara</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgodara1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgodara1" /> </p>
 
-- 🔭 I’m currently working on [DocGen AI](https://github.com/MOHITGODARA1/DocGen-AI)
+- 🔭 I’m currently working on [Leetcore](https://github.com/MOHITGODARA1/Leetcore)
 
-- 🌱 I’m currently learning **Django**
-
-- 🤝 I’m looking for help with [Unilink](https://unilink-1.onrender.com)
+- 🤝 I’m looking for help with [Leetcore](leetcore.in)
 
 - 💬 Ask me about **JS,DSA,C++,Python**
 
